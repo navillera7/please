@@ -1,4 +1,6 @@
-baseURL: https://navillera7.github.io/please/
+baseURL: "https://navillera7.github.io/please/"
+canonifyURLs: true
+
 languageCode: en-us
 title: My New Hugo Site
 
